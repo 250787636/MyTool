@@ -1,2 +1,1 @@
-# MyTool
-simple tool
+readme
